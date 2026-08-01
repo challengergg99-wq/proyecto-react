@@ -118,6 +118,14 @@ const CERTIFICATES = [
     skills: ['Accesibilidad', 'Norma 508', 'Diseño inclusivo'],
   },
   {
+    fileName: "Data_Analytics_Essentials_certificate.pdf",
+    title: "Fundamentos de Análisis de Datos",
+    issuer:"Cisco",
+    year:"2026",
+    description:"Certificado de fundamentos de analista de datos",
+    skills:['Dashboard', 'Tableau', 'Data Visualization', 'Data Storytelling', 'SQL', 'Excel', 'Data Analysis']
+  },
+  {
     title: 'Python',
     issuer: 'freeCodeCamp',
     year: '2026',
