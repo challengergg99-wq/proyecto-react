@@ -58,20 +58,14 @@ function About() {
       canvas.height = height;
 
       const firePixelsArray = createFireDataStructure(width, height);
-      let lastTime = performance.now();
-      let frameCount = 1;
       let frames = 1000000;
       let animationFrameId = 0;
 
       function animate() {
         frames -= 1;
-        const currentTime = performance.now();
-        const deltaTime = currentTime - lastTime;
-        lastTime = currentTime;
 
         calculateFirePropagation(firePixelsArray, width, height);
         renderFire(ctx, firePixelsArray, fireColorsPalette, width, height);
-        // frameCount increment handled internally if needed
 
         if (frames > 0) {
           animationFrameId = requestAnimationFrame(animate);
