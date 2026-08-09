@@ -126,6 +126,14 @@ const CERTIFICATES = [
     skills:['Dashboard', 'Tableau', 'Data Visualization', 'Data Storytelling', 'SQL', 'Excel', 'Data Analysis']
   },
   {
+    fileName: "Data_Science_Essentials_with_Python.pdf",
+    title: "Data Science Essentials with Python",
+    issuer:"Cisco",
+    year:"2026",
+    description:"Certificado de Data Science Essentials with Python",
+    skills:['IA y ciencia de datos']
+  },
+  {
     title: 'Python',
     issuer: 'freeCodeCamp',
     year: '2026',
