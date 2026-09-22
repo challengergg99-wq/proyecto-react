@@ -136,6 +136,30 @@ const CERTIFICATES = [
     skills:['IA y ciencia de datos']
   },
   {
+    fileName: 'excel avanzado.pdf',
+    title: 'Excel Avanzado',
+    issuer: 'Microsoft Excel',
+    year: '2025',
+    description: 'Certificado en uso avanzado de Excel para análisis, fórmulas, tablas dinámicas y gestión eficiente de datos.',
+    skills: ['Excel', 'Fórmulas', 'Tablas dinámicas', 'Análisis de datos'],
+  },
+  {
+    fileName: 'introduccion excel.pdf',
+    title: 'Introducción a Excel',
+    issuer: 'Microsoft Excel',
+    year: '2025',
+    description: 'Certificado de introducción a Excel con enfoque en funciones básicas, organización de información y productividad.',
+    skills: ['Excel', 'Funciones básicas', 'Organización', 'Productividad'],
+  },
+  {
+    fileName: 'data analisists datacamp.pdf',
+    title: 'Data Analyst',
+    issuer: 'DataCamp',
+    year: '2025',
+    description: 'Certificado de análisis de datos con énfasis en limpieza, manipulación, visualización e interpretación de información.',
+    skills: ['Data Analysis', 'SQL', 'Python', 'Visualización de datos'],
+  },
+  {
     title: 'Python',
     issuer: 'freeCodeCamp',
     year: '2026',
