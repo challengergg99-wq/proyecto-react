@@ -133,6 +133,7 @@ function Contact() {
               <span>·</span>
               <span className="font-bold text-white">Ing. Informática</span>
               <span>·</span>
+              <span className="font-bold text-white">Domicilio: El molino 1638</span>
               <span>2026</span>
             </div>
           </div>
