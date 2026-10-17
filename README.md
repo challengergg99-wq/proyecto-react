@@ -1,6 +1,6 @@
-# Portafolio personal y API de productos
+# Portafolio personal 
 
-Este repositorio contiene dos aplicaciones:
+Este repositorio contiene:
 
 - **Portafolio web:** sitio personal con información profesional, proyectos, estudios, certificados y formas de contacto.
 
@@ -10,16 +10,11 @@ Este repositorio contiene dos aplicaciones:
 - GSAP y ScrollTrigger para animaciones
 
 ### API
-
 - Node.js y Express
-- PostgreSQL mediante `pg`
 - `dotenv` para la configuración local
-- `cors` para permitir solicitudes entre orígenes
 
 ## Requisitos
-
 - Node.js y npm
-- PostgreSQL, si se desea ejecutar la API
 
 ## Instalación y ejecución
 
